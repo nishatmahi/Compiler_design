@@ -1,0 +1,66 @@
+
+# welcome everyone  
+## code is not working 
+    you are welcome here to try this beautifull system ##
+
+
+
+
+a = 10
+b = 20
+a = b
+
+show(a)
+
+
+check(1<=2) {
+   check (2<=3){
+
+   }
+}
+check_again (1<2) {
+
+}
+last {
+
+}
+
+again var in scope (1:12) {
+    check(1>2){
+        
+    }
+}
+
+again var in scope (1:12:2) {
+    
+}
+
+duration (6<5) {
+    
+}
+
+sequential_check (a) {
+    check_if (123) {
+        
+    }
+    check_if (20) {
+        
+    }
+    finally {
+
+    }
+}
+
+define add ( abc : INT , ijk: DOUBLE) => VOID {
+    a = 1
+}
+
+define sub ( i : INT , j: INT) => VOID {
+    a = 1
+}
+p = 1
+q = 2
+call sub (p , q)
+
+
+
